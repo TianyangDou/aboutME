@@ -8,19 +8,6 @@ I work on remote sensing image analysis for marine environments, with a focus on
 
 ---
 
-### 🔬 Research Projects
-
-- **UKANFormer** (2024–):  
-  A Transformer-based semantic segmentation model for coral reef mapping from remote sensing imagery.  
-  📌 _Paper under review at IEEE TGRS_  
-  🚧 Code to be released after publication.
-
-- **Ocean Front Detection with Self-Supervised Learning** (2025–):  
-  Exploring DINO-based representations for detecting ocean temperature fronts using LLC4320 simulation data.  
-  💼 Part of the GREAT summer research program @ UC Davis.
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages:** Python, C++, JavaScript  
