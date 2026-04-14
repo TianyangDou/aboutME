@@ -4,13 +4,11 @@
 
 I'm an undergraduate student at **Wuhan University**, majoring in *Spatial Information and Digital Technology*（expected to graduate in June,2026）. 
 
-I work on remote sensing image analysis for marine environments, with a focus on coral reef mapping and ocean front detection. My research explores deep learning and self-supervised methods for robust semantic understanding under noisy labels. I'm really passionate about using remote sensing to better understand our changing planet!
-
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, C++, JavaScript  
+**Languages:** Python, C++  
 **Frameworks:** PyTorch, Flask, Vue.js  
 **Geospatial:** QGIS, ArcGIS, PostgreSQL, PostGIS, GeoServer  
 **Tools:** Git, Linux, LaTeX  
