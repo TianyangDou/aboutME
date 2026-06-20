@@ -1,6 +1,6 @@
 # aboutME
 
-### 👋 Hi, I'm Tianyang Dou (窦天阳)
+### 👋 Hi, I'm Tianyang Dou
 
 I'm an undergraduate student at **Wuhan University**, majoring in *Spatial Information and Digital Technology*（expected to graduate in June,2026）. 
 
